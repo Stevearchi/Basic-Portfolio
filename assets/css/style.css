@@ -1,0 +1,25 @@
+body {
+    color: #777777;
+}
+
+h1 {
+    background: #4aaaa5;
+}
+
+h2 {
+    color:#4aaaa5;
+}
+
+nav {
+    background: #ffffff;
+    border: #cccccc;
+}
+
+footer {
+    background: #666666;
+}
+
+.mainBackground {
+    background: #ffffff;
+    border: #dddddd;
+}
