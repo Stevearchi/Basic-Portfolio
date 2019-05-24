@@ -4,10 +4,16 @@ body {
 
 h1 {
     background: #4aaaa5;
+    color: #ffffff;
 }
 
 h2 {
-    color:#4aaaa5;
+    color: #4aaaa5;
+}
+
+h3 {
+    background: #4aaaa5;
+    color: #ffffff;
 }
 
 nav {
